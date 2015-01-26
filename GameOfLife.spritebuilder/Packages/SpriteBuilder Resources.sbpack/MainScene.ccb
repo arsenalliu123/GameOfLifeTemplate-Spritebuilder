@@ -546,8 +546,6 @@
 												</array>
 											</dict>
 										</array>
-										<key>selected</key>
-										<true/>
 									</dict>
 									<dict>
 										<key>UUID</key>
@@ -1453,7 +1451,7 @@
 										<key>value</key>
 										<array>
 											<string></string>
-											<string>ccbResources/ccbButtonNormal.png</string>
+											<string>GameOfLifeAssets/Buttons/pause-pressed.png</string>
 										</array>
 									</dict>
 									<dict>
@@ -1787,7 +1785,7 @@
 										<key>value</key>
 										<array>
 											<string></string>
-											<string>ccbResources/ccbButtonNormal.png</string>
+											<string>GameOfLifeAssets/Buttons/play-pressed.png</string>
 										</array>
 									</dict>
 									<dict>
@@ -1931,6 +1929,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 						</array>
 						<key>customClass</key>
